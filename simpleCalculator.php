@@ -16,5 +16,5 @@ function divide($a,$b){
 echo sum(1,3);
 echo divide(1,3);
 echo multiply(1,3);
-echo minus(1,3);
+echo minus(1,4);
 ?>
